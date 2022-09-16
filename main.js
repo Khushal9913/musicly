@@ -25,7 +25,7 @@ let track_list = [
     name: "Kesariya",
     artist: "Khushal",
     image: "kesariya.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\Users\suril\Documents\PROJECT 1\Kesariya(PagalWorld.com.se).mp3"
+    path: "https://pagalworld.com.se/files/download/id/6594"
   },
   {
     name: "Enthusiast",
